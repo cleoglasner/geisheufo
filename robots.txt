@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceodeejimu.project-stears.com/sitemap.xml
